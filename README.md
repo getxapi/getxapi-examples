@@ -1,17 +1,17 @@
 # getxapi-examples
 
-> Official code samples for [GetXAPI](https://getxapi.com), the cheapest Twitter / X data API. Pay-per-call from $0.001. 45 endpoints. No subscription, no Twitter API key.
+> Official code samples for [GetXAPI](https://www.getxapi.com), the cheapest Twitter / X data API. Pay-per-call from $0.001. 45 endpoints. No subscription, no Twitter API key.
 
 [![Docs](https://img.shields.io/badge/docs-getxapi.com-7B2DBF)](https://docs.getxapi.com)
 [![OpenAPI 3.1](https://img.shields.io/badge/OpenAPI-3.1-7B2DBF)](https://docs.getxapi.com/openapi.json)
 [![License: MIT](https://img.shields.io/badge/License-MIT-7B2DBF)](LICENSE)
-[![Price](https://img.shields.io/badge/from-%240.001%2Fcall-7B2DBF)](https://getxapi.com/pricing)
+[![Price](https://img.shields.io/badge/from-%240.001%2Fcall-7B2DBF)](https://www.getxapi.com/pricing)
 
 Code samples for every supported language: curl, Python, Node.js, Go, Rust, PHP, Ruby, Java.
 
 ## Quick start
 
-1. Sign up at [getxapi.com](https://getxapi.com) (gets $0.10 free credit, no card required).
+1. Sign up at [getxapi.com](https://www.getxapi.com) (gets $0.10 free credit, no card required).
 2. Copy your API key from the dashboard.
 3. Set as env var: `export GETXAPI_KEY=...`
 4. Run any example below.
@@ -236,7 +236,7 @@ PRs welcome. Add a new language example by creating a top-level directory named 
 
 ## Links
 
-- Website: [getxapi.com](https://getxapi.com)
+- Website: [getxapi.com](https://www.getxapi.com)
 - Documentation: [docs.getxapi.com](https://docs.getxapi.com)
 - OpenAPI 3.1 spec: [docs.getxapi.com/openapi.json](https://docs.getxapi.com/openapi.json)
 - Crunchbase: [crunchbase.com/organization/getxapi](https://www.crunchbase.com/organization/getxapi)

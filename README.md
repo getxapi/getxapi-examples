@@ -1,6 +1,6 @@
 # getxapi-examples
 
-> Official code samples for [GetXAPI](https://www.getxapi.com), the cheapest Twitter / X data API. Pay-per-call from $0.001. 45 endpoints. No subscription, no Twitter API key.
+> Official code samples for [GetXAPI](https://www.getxapi.com), a pay-per-call Twitter / X data API. From $0.001 per call. 69 endpoints. No subscription, no X developer account.
 
 [![Docs](https://img.shields.io/badge/docs-getxapi.com-7B2DBF)](https://docs.getxapi.com)
 [![OpenAPI 3.1](https://img.shields.io/badge/OpenAPI-3.1-7B2DBF)](https://docs.getxapi.com/openapi.json)
@@ -225,7 +225,8 @@ Full spec: [docs.getxapi.com/openapi.json](https://docs.getxapi.com/openapi.json
 | Operation | Price |
 |---|---|
 | Standard read | $0.001 per call |
-| Write operations | $0.002 per call |
+| Like, retweet, follow | $0.001 per call |
+| Post a tweet | $0.002 per call |
 | Send DM | $0.002 per call |
 | Free signup credit | $0.10 (no card required) |
 | Monthly subscription | $0 |
